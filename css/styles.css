@@ -1,0 +1,75 @@
+
+
+body, div,dl,dt,dd,ul,ol,li,
+h1,h2,h3,h4,h5,h6,
+pre,form,fieldset,input,textarea,
+p,blockquote,th,td {margin: 0;padding: 0;font-size: 100%; font-family:"franklin-gothic-urw", sans-serif; list-style:none;}
+
+body {background:#e6e7df; color:#333; text-align:center;}
+
+a:link, a:visited {color:#db9500; text-decoration: none;}
+a:hover, a:active {color:#bb8000;}
+
+p {font-size:24px; } 
+
+.ja, .ja .holder {text-align: justify; text-justify: inter-ideograph;}
+.holder {margin:0px auto 50px auto; text-align:left; width:936px;}
+.holder .lang {padding:5px 7px 3px 7px; float:right; background:#eff0eb; -webkit-border-bottom-right-radius: 4px; -webkit-border-bottom-left-radius: 4px; -moz-border-radius-bottomright: 4px; -moz-border-radius-bottomleft: 4px; border-bottom-right-radius: 4px; border-bottom-left-radius: 4px; font-weight: bold;}
+.holder .lang a:link, .holder .lang a:visited {color: #9da197;}
+
+.section {clear:left; padding: 0 0 48px 0; overflow: hidden; width:936px;}
+
+h1 {padding-top:50px; font-size:48px; font-family: "urbana-n4", "urbana", sans-serif; font-weight:normal; }
+h1 span {color:#bfc2ba;}
+h2 {font-size:24px; margin:0 0 18px 0; font-family: "urbana-n6", "urbana"; font-weight: 600; text-transform: uppercase;}
+h3 {font-size:24px; font-family:"urbana", sans-serif; }
+h4 {font-size:24px; font-family:"urbana", sans-serif; font-weight: normal; }
+
+
+.mission p {font-size:48px; line-height:1.3; font-weight: 300; font-family: "urbana-n3", "urbana", sans-serif;}
+.ja .mission p {font-size:24px; line-height: 1.6; margin:24px 0; }
+
+
+.activities h3 {color:#bfc2ba; font-weight: normal;}
+.activities h3 span {font-size: 75%;}
+.activities ul li {display:inline-block; width:440px; margin: 0 24px 24px 0; vertical-align:top;}
+.activities ul li img {margin: 0 0 16px 0;}
+.activities ul li p { font-size:18px; line-height: 1.3; margin:4px 0 18px 0;}
+.ja .activities ul li p { font-size:14px; line-height: 1.6;}
+
+.team ul.leaders li {clear:left;}
+
+.team .leadership {width:600px; float:left;}
+.team .leadership p {font-size:18px; line-height: 1.6;}
+.team .members {width:210px; float:left; margin:0 0 0 78px;}
+.team .members ul {margin-bottom:1em; }
+.ja .team .leadership p {font-size:14px; line-height: 1.5; margin-bottom:1em;}
+
+.team ul.leaders li img {float:left; margin:0 24px 36px 0;}
+.team ul.leaders li div {float:left; width:365px; margin-bottom:36px;}
+.team ul.leaders li {margin-bottom:24px;}
+.team ul.leaders li em {font-size: 24px; color: #bfc2ba; font-family: "urbana", sans-serif; margin-bottom: 0px; padding:0; display: block; font-style: normal; line-height: 1.1;}
+
+.org_chart {padding-bottom: 72px;}
+
+.history ol {width: 960px;}
+.history ol li {display:inline-block; vertical-align:top; width:444px; margin: 0 24px 24px 0; }
+.history h3 {font-size:48px; line-height:1; color:#bfc2ba; float:left; width:132px; margin:0 24px 24px 0;}
+.ja .history h3 {width:90px;}
+.history p {margin:0 0 24px 0; float:left; width:288px; font-size:18px; line-height: 1.3;}
+.ja .history p {font-size:14px; line-height: 1.5; width:300px;}
+
+.contact ul li {font-size:24px; line-height:1.3; margin:0; font-family: "urbana-n6", "urbana"; font-weight: 600;}
+.contact p {font-size:18px; line-height:1.3; margin:0 0 0 0; padding:.5em 0 0 0;}
+.contact ul {width:444px; float:left; margin:0 24px 0 0;}
+.contact p {width:444px; float:left;}
+
+.ja .intern_list ul li {display:inline-block; width:440px; margin: 0 24px 48px 0; vertical-align:top;}
+.ja .intern_list ul li div {float:left; width:300px;}
+.ja .intern_list ul li div h3 {font-size:24px; font-weight: 300; font-family: "urbana-n3", "urbana", sans-serif;}
+.ja .intern_list ul li div p {font-size:12px; line-height: 1.5; margin-bottom:1em;}
+.ja .intern_list ul li div p.stats {font-size: 15px; margin-bottom:.75em;}
+.ja .intern_list ul li div p a {padding:3px 5px 2px 5px; margin-right:1em; background:#eff0eb; border-radius:4px; }
+.ja .intern_list ul li img {float:left; margin:2px 24px 20px 0; width:90px; height:auto;}
+
+/* */
