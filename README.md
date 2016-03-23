@@ -1,5 +1,3 @@
 # GadagoNPO
-Website to present the Gadago NPO
-
-## Deploying 
-Soon (testing now ;-)
+Website to present the Galago NPO
+Repo is at : [https://github.com/GadagoNPO/website](https://github.com/GadagoNPO/website)
