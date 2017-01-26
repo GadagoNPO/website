@@ -1,0 +1,46 @@
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html {
+  font-size:100%;
+} 
+
+@media (max-width: 37.5em) {
+  body {
+    font-size:1rem;
+  }
+  .mission p {
+    font-size: 30px !important;
+  }
+  .ja .mission p{
+    font-size: 24px !important;
+  }
+  h1 {
+    padding-left:10px !important;
+    text-align: initial !important;
+  }
+  h2 {
+    margin: 0 0 18px 10px !important;
+  }
+  .holder {
+    width: 375px !important;
+  }
+  .holder div {
+    width: 100% !important;
+  }
+  .section {
+    padding: 0 10px 48px 10px !important;
+  }
+  .activities ul li,.history ol, .history ol li, .history p, .team .leadership p {
+    width: 100% !important;
+  }
+  .team .members {
+      margin: 0 !important;
+  }
+  img {
+    max-width: 100%;
+  }
+}
