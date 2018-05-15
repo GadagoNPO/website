@@ -3,7 +3,6 @@ Website to present the Gadago NPO
 
 Repo is at : [https://github.com/GadagoNPO/website](https://github.com/GadagoNPO/website)
 
-In terminal : 
 Create a folder like "Sites" under /Users/your-name/
 
 then in terminal : 
@@ -26,7 +25,7 @@ then in terminal :
 edit the files in your favorite editor.
 
 After your changes : 
-> git commmit -am "commit message"
+> git commit -am "commit message"
 
 > git push origin new-branch-name
 
