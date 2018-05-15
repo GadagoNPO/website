@@ -13,6 +13,8 @@ then in terminal :
 > git init
 > git clone https://github.com/GadagoNPO/website.git
 
+> git remote set-url origin git@github.com:GadagoNPO/website.git
+
 > cd website
 > git checkout -b new-branch-name
 
